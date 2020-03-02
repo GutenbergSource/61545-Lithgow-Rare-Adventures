@@ -1,0 +1,56 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="218" filedate="2010-02-11 21:03:56" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="230" filedate="2018-12-16 14:36:35" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="159" filedate="2018-12-16 14:36:35" width="12px" height="12px">
+</image>
+<image path="images/front.jpg" filesize="36619" filedate="2020-02-22 12:19:07" width="459px" height="720px">
+</image>
+<image path="images/frontispiece.png" filesize="71552" filedate="2020-02-21 21:21:11" width="496px" height="720px">
+</image>
+<image path="images/initial-a.png" filesize="6089" filedate="2020-02-21 21:21:11" width="149px" height="158px">
+</image>
+<image path="images/initial-b.png" filesize="6037" filedate="2020-02-21 21:21:11" width="147px" height="162px">
+</image>
+<image path="images/initial-c.png" filesize="6286" filedate="2020-02-21 21:21:12" width="147px" height="160px">
+</image>
+<image path="images/initial-i.png" filesize="6148" filedate="2020-02-22 12:19:08" width="145px" height="161px">
+</image>
+<image path="images/initial-j.png" filesize="5640" filedate="2020-02-22 12:19:08" width="142px" height="160px">
+</image>
+<image path="images/initial-small-a.png" filesize="1221" filedate="2020-02-21 21:21:13" width="63px" height="62px">
+</image>
+<image path="images/initial-small-d.png" filesize="1108" filedate="2020-02-21 21:21:14" width="63px" height="63px">
+</image>
+<image path="images/initial-small-i.png" filesize="1213" filedate="2020-02-22 12:19:09" width="61px" height="63px">
+</image>
+<image path="images/initial-t.png" filesize="6122" filedate="2020-02-22 12:19:09" width="142px" height="155px">
+</image>
+<image path="images/p110.png" filesize="95355" filedate="2020-02-21 21:21:17" width="645px" height="715px">
+</image>
+<image path="images/p252-1.png" filesize="6195" filedate="2020-02-22 12:19:10" width="239px" height="284px">
+</image>
+<image path="images/p252-2.png" filesize="9160" filedate="2020-02-22 12:19:11" width="259px" height="321px">
+</image>
+<image path="images/p254.png" filesize="101403" filedate="2020-02-22 12:19:14" width="653px" height="719px">
+</image>
+<image path="images/p322.png" filesize="114639" filedate="2020-02-22 12:19:16" width="645px" height="720px">
+</image>
+<image path="images/p328.png" filesize="117574" filedate="2020-02-22 12:19:18" width="654px" height="720px">
+</image>
+<image path="images/p364.png" filesize="111163" filedate="2020-02-22 12:19:20" width="656px" height="720px">
+</image>
+<image path="images/p396.png" filesize="129052" filedate="2020-02-22 12:19:22" width="652px" height="719px">
+</image>
+<image path="images/p402.png" filesize="90445" filedate="2020-02-22 12:19:25" width="651px" height="719px">
+</image>
+<image path="images/publogo.png" filesize="15672" filedate="2020-02-22 12:19:25" width="209px" height="311px">
+</image>
+<image path="images/qrcode.png" filesize="266" filedate="2020-03-02 20:00:32" width="148px" height="148px">
+</image>
+<image path="images/titlepage-1632.png" filesize="32695" filedate="2020-02-22 12:19:28" width="424px" height="720px">
+</image>
+<image path="images/titlepage.png" filesize="9374" filedate="2020-02-22 12:19:32" width="431px" height="720px">
+</image>
+</images>
